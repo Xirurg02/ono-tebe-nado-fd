@@ -120,7 +120,7 @@
   width: 256px;
   min-height: 53px;
   font-size: 22px;
-  margin-top: -14px;
+  margin-top: -15px;
   z-index: 1;
 }
 
@@ -224,7 +224,7 @@
 
 .about {
   width: 1052px;
-  margin: 120px 24px 183px 24px;
+  margin: 120px 24px 180px 24px;
   display: grid;
   grid-template-columns: 334px auto;
   gap: 25px;
@@ -269,7 +269,7 @@
 .about__text {
   display: flex;
   font-size: 20px;
-  margin-top: 27px;
+  margin-top: 24px;
 }
 
 .footer {
@@ -282,17 +282,16 @@
 .footer__address {
   width: 264.57px;
   height: auto;
-  line-height: 26px;
-  margin-left: 52px;
+  line-height: 23px;
+  margin-left: 50px;
 }
 
 .footer__menu {
   display: flex;
   font-size: 18px;
-  line-height: 21.13px;
+  line-height: 20.13px;
   text-align: center;
-  padding-left: 110px;
-  padding-top: 1px;
+  padding-left: 111px;
 }
 
 .footer__menu-list {
