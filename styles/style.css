@@ -224,7 +224,7 @@
 
 .about {
   width: 1052px;
-  margin: 120px 24px 180px 24px;
+  margin: 120px 24px;
   display: grid;
   grid-template-columns: 334px auto;
   gap: 25px;
@@ -269,14 +269,14 @@
 .about__text {
   display: flex;
   font-size: 20px;
-  margin-top: 24px;
+  margin-top: 27px;
 }
 
 .footer {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   width: 1100px;
-  height: auto;
+  margin-top: 185px;
 }
 
 .footer__address {
