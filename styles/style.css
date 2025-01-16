@@ -277,8 +277,8 @@
   grid-template-columns: repeat(3, 1fr);
   width: 1100px;
   height: auto;
-  margin-top: 184px;
-  margin-bottom: 89px;
+  margin-top: 180px;
+  margin-bottom: 90px;
 }
 
 .footer__address {
